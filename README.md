@@ -1,4 +1,4 @@
-- Hello, my name is Eleanor (she/her)
-- I am studying Biomedical Data Science at the University of Edinburgh
-- Hoping to pursue a PhD in using AI to advance epidemiological studies of chilhood disease
-- Reach me at eleanorjaneharrison@gmail.com
+Eleanor (she/her)
+Studying Biomedical Data Science at the University of Edinburgh
+Pursuing a PhD in epidemiology of chilhood diseases
+Contact me at eleanorjaneharrison@gmail.com
